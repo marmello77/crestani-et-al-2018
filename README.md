@@ -8,7 +8,7 @@ Authors: Ana Crestani, Marco Mello, Eliana Cazeta.
 
 E-mail: aninhacrestani@hotmail.com.
 
-How to cite: Crestani et al. 2018. Interindividual variations in plant and fruit traits affect the structure of a plant-frugivore network. Biotropica, in press. DOI: https://doi.org/10.1016/j.actao.2018.11.003. Supplementary information.
+How to cite: Crestani et al. 2018. Interindividual variations in plant and fruit traits affect the structure of a plant-frugivore network. Acta Oecologica, DOI: https://doi.org/10.1016/j.actao.2018.11.003. Supplementary information.
 
 Published on November 22nd, 2018.
 
