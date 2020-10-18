@@ -1,7 +1,5 @@
 # crestani-et-al-2019
 
-Supplementary data from Crestani et al. 2019, Acta Oecologica
-
 Supplementary data from the paper [Crestani et al. (2019, Acta Oecologica)](https://doi.org/10.1016/j.actao.2018.11.003).
 
 [Ecological Synthesis Lab](https://marcomellolab.wordpress.com) (SintECO).
